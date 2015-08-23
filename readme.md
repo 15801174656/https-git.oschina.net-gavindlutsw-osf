@@ -18,6 +18,10 @@
 * 个人信息设置、账户安全
 * 上传图片云存储
 
+
+同步提供下github地址:  <https://github.com/lvwangbeta/osf>
+
+
 ## Demo
 
 此项目的Demo版演示已经部署在Coding.net [http://osf.coding.io/welcome](http://osf.coding.io/welcome)  
